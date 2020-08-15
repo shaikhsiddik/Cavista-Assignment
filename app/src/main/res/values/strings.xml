@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cavista</string>
+    <string name="type_here_to_search_image">Type here to search image</string>
+    <string name="txt_unable_load">Unable to load data</string>
+    <string name="save">Save</string>
+    <string name="comment">Comment</string>
+    <string name="txt.title">title</string>
+    <string name="txt.img">image</string>
+    <string name="txt_comment">Please add comment</string>
+    <string name="txt_comment_saved">Comment Saved</string>
+</resources>
